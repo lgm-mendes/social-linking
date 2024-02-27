@@ -28,6 +28,10 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## 🔗 Projeto
 
+O SocialLinking é um agregador de links para usar como cartão de visitas online.
+
+- [Acesse o projeto finalizado, online](https://lgm-mendes.github.io/social-linking)
+
 ---
 
 <br>
